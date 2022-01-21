@@ -24,9 +24,8 @@
 <br>
 
 
-[![Anis Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=marahmanjs&custom_title=Anis%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Anis Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=marahmanjs&custom_title=Anis%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://marahmanjs.com/)
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> ![marahmanjs's top languages](https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif) 
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
