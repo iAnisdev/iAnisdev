@@ -16,7 +16,7 @@
 ![marahmanjs's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=marahmanjs&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://cv.marahmanjs.com/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=marahmanjs&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=marahmanjs&theme=gruvbox&hide_border=true" />
   </a>
