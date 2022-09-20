@@ -2,40 +2,40 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs?username=marahmanjs&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" />
 
-- 👋 Hi, I’m @marahmanjs and you can call me Anis
+- 👋 Hi, I’m @iAnisDev and you can call me Anis
 - 👀 I’m interested in Learning Javascript and its frameworks.
 - 🌱 I’m currently learning React and Advance TypeScript.
 - 👀 Looking to collaborate on mostly Javascript realted Work.
 - ⚙️ I use daily: `.html`, `.css`,  `.scss`, `.js`, `.ts`,  `.vue`, `.svelte`, `.json`.
-- 📫 How to reach me marahmanjs@gmail.com
+- 📫 How to reach me imarahmandev@gmail.com
 
  
 - ![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
  ![Working at](https://img.shields.io/badge/working%20at-Pixelmatic-blue)
- ![Profie Views](https://komarev.com/ghpvc/?username=marahmanjs&label=Profile%20views&color=0e75b6&style=flat)
+ ![Profie Views](https://komarev.com/ghpvc/?username=iAnisDev&label=Profile%20views&color=0e75b6&style=flat)
 [![Linkedin: marahmanjs](https://img.shields.io/badge/-marahmanjs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marahmanjs/)](https://www.linkedin.com/in/marahmanjs/)
-[![GitHub marahmanjs](https://img.shields.io/github/followers/marahmanjs?label=follow&style=social)](https://github.com/marahmanjs)
+[![GitHub iAnisDev](https://img.shields.io/github/followers/iAnisDev?label=follow&style=social)](https://github.com/iAnisDev)
 
 
 ## My Statistics
 <br/>
 <p align="left">
   <a href="https://cv.marahmanjs.com/">
-  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marahmanjs&theme=nord_dark" />
-    <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marahmanjs&theme=nord_dark" />
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iAnisDev&theme=nord_dark" />
+    <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iAnisDev&theme=nord_dark" />
   </a>
 </p>
 <br/>
 <p align="left">
   <a href="https://cv.marahmanjs.com/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=marahmanjs&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=marahmanjs&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iAnisDev&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iAnisDev&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
 
-[![Anis Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=marahmanjs&custom_title=Anis%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://marahmanjs.com/)
+[![Anis Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=iAnisDev&custom_title=Anis%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://iAnisDev.com/)
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
