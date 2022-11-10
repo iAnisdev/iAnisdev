@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning React and Advance TypeScript.
 - 👀 Looking to collaborate on mostly Javascript realted Work.
 - ⚙️ I use daily: `.html`, `.css`,  `.scss`, `.js`, `.ts`, `.tsx`, `.vue`, `.svelte`, `.json`.
-- 📫 How to reach me imarahmandev@gmail.com
+<!-- - 📫 How to reach me imarahmandev@gmail.com -->
 
  
-- ![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
+![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
  ![Working at](https://img.shields.io/badge/working%20at-NFQ-orange)
  ![Profie Views](https://komarev.com/ghpvc/?username=iAnisDev&label=Profile%20views&color=0e75b6&style=flat)
 [![Linkedin: marahmanjs](https://img.shields.io/badge/-marahmanjs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marahmanjs/)](https://www.linkedin.com/in/marahmanjs/)
