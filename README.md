@@ -6,7 +6,7 @@
 - 👀 I’m interested in Learning Javascript and its frameworks.
 - 🌱 I’m currently learning React and Advance TypeScript.
 - 👀 Looking to collaborate on mostly Javascript realted Work.
-- ⚙️ I use daily: `.html`, `.css`,  `.scss`, `.js`, `.ts`, `.tsx`, `.vue`, `.svelte`, `.json`.
+- ⚙️ I use daily: `.html`, `.css`,  `.scss`, `.js`, `.ts`, `.jsx`, `.tsx`, `.vue`, `.svelte`, `.json`.
 <!-- - 📫 How to reach me imarahmandev@gmail.com -->
 
  
