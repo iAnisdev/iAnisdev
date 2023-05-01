@@ -34,9 +34,6 @@
 </p>
 <br>
 
-
-[![Anis Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=iAnisDev&custom_title=Anis%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://iAnisDev.com/)
-
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" /> 
