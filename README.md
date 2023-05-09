@@ -4,9 +4,9 @@
 
 - 👋 Hi, I’m @iAnisDev and you can call me Anis
 - 👀 I’m interested in Learning Javascript and its frameworks.
-- 🌱 I’m currently learning React and Advance TypeScript.
+- 🌱 I’m currently learning GO, Next.js and Advance TypeScript.
 - 👀 Looking to collaborate on mostly Javascript realted Work.
-- ⚙️ I use daily: `.html`, `.css`,  `.scss`, `.js`, `.ts`, `.jsx`, `.tsx`, `.vue`, `.svelte`, `.json`.
+- ⚙️ I use daily: `.html`, `.css`,  `.scss`, `.js`, `.ts`, `.jsx`, `.tsx`, `.vue`, `.svelte`, `.json`, `.go`.
 <!-- - 📫 How to reach me imarahmandev@gmail.com -->
 
  
@@ -51,6 +51,7 @@
   <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=for-the-badgee&logo=Socket.io&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img alt="GO" src="https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
