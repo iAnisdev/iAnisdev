@@ -6,7 +6,7 @@
 - 👀 I’m interested in Learning AI and Python.
 - 🌱 I’m currently learning Python, Next.js and AI.
 - 👀 Looking to collaborate on AI or JS related work.
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.ts`, `.jsx`, `.tsx`, `.svelte`, `.json`, `.go` , `.py`.
+- ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.svelte`, `.go` , `.py`.
 - 📫 How to reach me imarahmandev@gmail.com
 
  
