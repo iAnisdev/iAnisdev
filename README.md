@@ -3,11 +3,11 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs?username=iAnisdev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" />
 
 - 👋 Hi, I’m @iAnisDev and you can call me Anis
-- 👀 I’m interested in Learning Javascript and its frameworks.
-- 🌱 I’m currently learning GO, Next.js and Advance TypeScript.
-- 👀 Looking to collaborate on mostly Javascript realted Work.
-- ⚙️ I use daily: `.html`, `.css`,  `.scss`, `.js`, `.ts`, `.jsx`, `.tsx`, `.vue`, `.svelte`, `.json`, `.go`.
-<!-- - 📫 How to reach me imarahmandev@gmail.com -->
+- 👀 I’m interested in Learning AI and Python.
+- 🌱 I’m currently learning Python, Next.js and AI.
+- 👀 Looking to collaborate on AI or JS related work.
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.ts`, `.jsx`, `.tsx`, `.svelte`, `.json`, `.go` , `.py`.
+- 📫 How to reach me imarahmandev@gmail.com
 
  
 ![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
@@ -20,14 +20,14 @@
 ## My Statistics
 <br/>
 <p align="left">
-  <a href="https://cv.marahmanjs.com/">
+  <a href="https://www.linkedin.com/in/ianisdev/">
   <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iAnisDev&theme=nord_dark" />
     <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iAnisDev&theme=nord_dark" />
   </a>
 </p>
 <br/>
 <p align="left">
-  <a href="https://cv.marahmanjs.com/">
+  <a href="https://www.linkedin.com/in/ianisdev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iAnisDev&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iAnisDev&theme=gruvbox&hide_border=true" />
   </a>
@@ -37,7 +37,6 @@
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" /> 
-  <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Vue.JS" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" />
@@ -51,11 +50,11 @@
   <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=for-the-badgee&logo=Socket.io&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B" />
   <img alt="GO" src="https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img alt="Wechat" src="https://img.shields.io/badge/-Wechat%20Mini%20Programs-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
 </p>
