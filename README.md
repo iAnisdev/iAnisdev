@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Python, Next.js and AI.
 - 👀 Looking to collaborate on AI or JS related work.
 - ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.svelte`, `.go` , `.py`.
-- 📫 How to reach me imarahmandev@gmail.com
+- 📫 How to reach me me.anis.dev@gmail.com
 
  
 ![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
