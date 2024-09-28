@@ -2,7 +2,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs?username=iAnisdev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" />
 
-- 👋 Hi, I’m @iAnisDev and you can call me Anis
+- 👋 Hi, I’m Anis, A senior Fullstack engineer and AI learner
 - 👀 I’m interested in Learning AI and Python.
 - 🌱 I’m currently learning Python, Next.js and AI.
 - 👀 Looking to collaborate on AI or JS related work.
