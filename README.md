@@ -5,8 +5,8 @@
 - 💻 Fullstack JavaScript Engineer  
 - 🔄 Transitioning to become an AI engineer
 - 👀 Passionate about AI and neural networks.
-- 🌱 Currently learning Python, AI, and Machine Learning.
-- 🤝 Open to collaborating on AI or data-related projects.
+- 🌱 Currently learning Python, AI, and ML.
+- 🤝 Open to collaborating on AI or DS.
 - 📫 Reach me at: me.anis.dev@gmail.com
   
 <!-- ![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
