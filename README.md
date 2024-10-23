@@ -7,7 +7,6 @@
 - 👀 Passionate about AI and neural networks.
 - 🌱 Currently learning Python, AI, and ML.
 - 🤝 Open to collaborating on AI or DS.
-- 📫 Reach me at: me.anis.dev@gmail.com
   
 <!-- ![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
  ![Working at](https://img.shields.io/badge/working%20at-NFQ-orange) -->
