@@ -1,15 +1,20 @@
-
-
+## About Me
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs?username=iAnisdev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" />
 
-[![roadmap.sh](https://roadmap.sh/card/wide/64bec02e263b0aea1d992e83?variant=dark)](https://roadmap.sh)
- 
-![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
- ![Working at](https://img.shields.io/badge/working%20at-NFQ-orange)
+### 👋 Hi, I’m Anis
+- 💻 Fullstack JavaScript Engineer  
+- 🔄 Transitioning to become an AI engineer
+- 👀 Passionate about AI and neural networks.
+- 🌱 Currently learning Python, AI, and Machine Learning.
+- 🤝 Open to collaborating on AI or data-related projects.
+- 📫 Reach me at: me.anis.dev@gmail.com
+  
+<!-- ![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
+ ![Working at](https://img.shields.io/badge/working%20at-NFQ-orange) -->
+ &nbsp; &nbsp; &nbsp;
  ![Profie Views](https://komarev.com/ghpvc/?username=iAnisDev&label=Profile%20views&color=0e75b6&style=flat)
 [![Linkedin: iAnisDev](https://img.shields.io/badge/-iAnisDev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ianisdev/)](https://www.linkedin.com/in/ianisdev/)
 [![GitHub iAnisDev](https://img.shields.io/github/followers/iAnisDev?label=follow&style=social)](https://github.com/iAnisDev)
-
 
 ## My Statistics
 <br/>
@@ -22,12 +27,13 @@
 <br/>
 <p align="left">
   <a href="https://www.linkedin.com/in/ianisdev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iAnisDev&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iAnisDev&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" height="200px" src="https://roadmap.sh/card/wide/64bec02e263b0aea1d992e83?variant=dark)](https://roadmap.sh" />
+    <img width="49.5%"  height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=iAnisDev&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
+## Tech Stack
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" /> 
