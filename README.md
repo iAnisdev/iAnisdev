@@ -2,13 +2,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs?username=iAnisdev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" />
 
-- 👋 Hi, I’m Anis, a Fullstack Developer and AI grad student.
-- 👀 I’m passionate about learning AI, machine learning and nueral networks.
-- 🌱 I’m currently learning Python,machine learning and AI.
-- 🤝 Open to collaborating on AI, data, or web-related projects.
-- ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.svelte`, `.go` , `.py` , `.ipynb`.
-- 📫 How to reach me me.anis.dev@gmail.com
-
+[![roadmap.sh](https://roadmap.sh/card/wide/64bec02e263b0aea1d992e83?variant=dark)](https://roadmap.sh)
  
 ![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
  ![Working at](https://img.shields.io/badge/working%20at-NFQ-orange)
