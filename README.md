@@ -24,13 +24,6 @@
   </a>
 </p>
 <br/>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ianisdev/">
-    <img width="49.5%" height="200px" src="https://roadmap.sh/card/wide/64bec02e263b0aea1d992e83?variant=dark)](https://roadmap.sh" />
-    <img width="49.5%"  height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=iAnisDev&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
 
 ## Tech Stack
 <p>
